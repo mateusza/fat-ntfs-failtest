@@ -1,3 +1,3 @@
 # Windows FAT/NTFS Fail Test
 
-## 1. Upper-lower case files
+## 01. Upper-lower case files
